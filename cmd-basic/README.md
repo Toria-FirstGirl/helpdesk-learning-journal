@@ -2,7 +2,10 @@
 # CMD Basics for Help Desk
 
 ## Overview
-This document explains common Command Prompt (CMD) commands practiced for basic troubleshooting and system checks in help desk environments.
+
+One-line recruiter summary
+
+Practiced essential CMD commands for network troubleshooting, user management, and system diagnostics in a help desk environment.
 
 ---
 
