@@ -1,0 +1,6 @@
+ipconfig
+ipconfig /all
+ping google.com
+net user
+net user /domain
+whoami
